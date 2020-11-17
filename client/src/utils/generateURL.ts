@@ -13,7 +13,7 @@ export default function GenerateURL(schema: IGenerateURLArgs): String {
   if (a == undefined) {
     a = 255;
   } else {
-    a = Math.ceil(a * 255);
+    a = Math.round(a * 255);
   }
 
   return `${Base_URL}/?h=${h}&w=${w}&r=${r}&g=${g}&g=${g}&b=${b}&a=${a}`;
