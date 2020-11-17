@@ -18,3 +18,4 @@ export default function GenerateURL(schema: IGenerateURLArgs): String {
 
   return `${Base_URL}/?h=${h}&w=${w}&r=${r}&g=${g}&g=${g}&b=${b}&a=${a}`;
 }
+
