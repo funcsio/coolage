@@ -1,43 +1,6 @@
-### Coolage is an innovative tool to showcase your colour palatte on the web by embedding them in pages, readmes etc.
-
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=244&g=67&g=67&b=54&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=233&g=30&g=30&b=99&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=156&g=39&g=39&b=176&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=103&g=58&g=58&b=183&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=63&g=81&g=81&b=181&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=33&g=150&g=150&b=243&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=3&g=169&g=169&b=244&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=0&g=188&g=188&b=212&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=0&g=150&g=150&b=136&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=76&g=175&g=175&b=80&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=139&g=195&g=195&b=74&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=205&g=220&g=220&b=57&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=255&g=235&g=235&b=59&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=255&g=193&g=193&b=7&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=255&g=152&g=152&b=0&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=255&g=87&g=87&b=34&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=121&g=85&g=85&b=72&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=158&g=158&g=158&b=158&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=96&g=125&g=125&b=139&a=255" />
-<img src="https://coolage.herokuapp.com/?h=30&w=30&r=0&g=0&g=0&b=0&a=255" />
-
 <div align="center">
 <img src="./docs/images/banner.svg" width="100%">
 </div>
-
-## Motivation
-
-While developing web projects it's hard to showcase the exact colour visually from its HEX, RGBA and HSLA. To resolve this I had written various functions and components which renders a small box filled with the given colour. Over time it became quite repetitive and
-frustrating. So I thought why not create a tool to solve the problem.
-
-## Usage
-
-<div style="display:flex">
-<div style="flex:3">
-
-Using the <a href="http://coolage.funcs.io/">Coolage URL generator</a> you can pick the colour and the size of the placeholder which generates a URL in real-time. Click the copy icon and the URL will be copied to you clipboard. Voila! Paste the URL and you are good to go :)
-
-
 <img src="https://coolage.herokuapp.com/?h=20&w=20&r=99&g=181&g=181&b=152&a=255" />
 <img src="https://coolage.herokuapp.com/?h=20&w=20&r=206&g=125&g=125&b=120&a=255" />
 <img src="https://coolage.herokuapp.com/?h=20&w=20&r=234&g=158&g=158&b=112&a=255" />
@@ -309,12 +272,21 @@ Using the <a href="http://coolage.funcs.io/">Coolage URL generator</a> you can p
 <img src="https://coolage.herokuapp.com/?h=20&w=20&r=220&g=231&g=231&b=122&a=255" />
 <img src="https://coolage.herokuapp.com/?h=20&w=20&r=119&g=236&g=236&b=202&a=255" />
 
-</div>
-<div style="flex:1" align="center">
+### Coolage is an innovative tool to showcase your colour palatte on the web by embedding them in pages, readmes etc.
+
+## Motivation
+
+While developing web projects it's hard to showcase the exact colour visually from its HEX, RGBA and HSLA. To resolve this I had written various functions and components which renders a small box filled with the given colour. Over time it became quite repetitive and
+frustrating. So I thought why not create a tool to solve the problem.
+
+## Usage
+
+Using the <a href="http://coolage.funcs.io/">Coolage URL generator</a> you can pick the colour and the size of the placeholder which generates a URL in real-time. Click the copy icon and the URL will be copied to you clipboard. Voila! Paste the URL and you are good to go :)
+
+<div align="center">
 <a href="http://coolage.funcs.io/">
-<img width="80%"  src="./docs/images/UI.svg" />
+<img width="80%"  src="./docs/images/UI.png" />
 </a>
-</div>
 </div>
 
 | Color       | HEX     |                                 Placeholder                                 |
@@ -339,3 +311,24 @@ Using the <a href="http://coolage.funcs.io/">Coolage URL generator</a> you can p
 | Grey        | #9e9e9e | ![](https://coolage.herokuapp.com/?h=10&w=10&r=158&g=158&g=158&b=158&a=255) |
 | Blue Grey   | #607d8b | ![](https://coolage.herokuapp.com/?h=10&w=10&r=96&g=125&g=125&b=139&a=255)  |
 | Balck       | #000000 |     ![](https://coolage.herokuapp.com/?h=10&w=10&r=0&g=0&g=0&b=0&a=255)     |
+
+<!-- <img src="https://coolage.herokuapp.com/?h=30&w=30&r=244&g=67&g=67&b=54&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=233&g=30&g=30&b=99&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=156&g=39&g=39&b=176&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=103&g=58&g=58&b=183&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=63&g=81&g=81&b=181&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=33&g=150&g=150&b=243&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=3&g=169&g=169&b=244&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=0&g=188&g=188&b=212&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=0&g=150&g=150&b=136&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=76&g=175&g=175&b=80&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=139&g=195&g=195&b=74&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=205&g=220&g=220&b=57&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=255&g=235&g=235&b=59&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=255&g=193&g=193&b=7&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=255&g=152&g=152&b=0&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=255&g=87&g=87&b=34&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=121&g=85&g=85&b=72&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=158&g=158&g=158&b=158&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=96&g=125&g=125&b=139&a=255" />
+<img src="https://coolage.herokuapp.com/?h=30&w=30&r=0&g=0&g=0&b=0&a=255" /> -->
