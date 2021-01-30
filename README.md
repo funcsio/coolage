@@ -273,7 +273,7 @@
 ![](https://coolage.herokuapp.com/?h=20&w=20&r=220&g=231&g=231&b=122&a=255)
 ![](https://coolage.herokuapp.com/?h=20&w=20&r=119&g=236&g=236&b=202&a=255)
 
-### Coolage is an innovative tool to showcase your colour palatte on the web by embedding them in pages, readmes etc.
+### Coolage is an innovative tool to showcase your colour palette on the web by embedding them in pages, readmes etc.
 
 ## Motivation
 
